@@ -6,7 +6,7 @@ Neste repositorio encontra-se 3 projetos desenvolvidos durante a semana OmniStac
 * frontend
 * mobile
 
-Acesse os projetos e coloque o seguinte comando: 
+Acesse cada um dos projetos e coloque o seguinte comando: 
 ```
 npm install
 ```
